@@ -18,6 +18,10 @@
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/the-science/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/post/git/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -47,6 +51,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/last-last-week/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/this-week/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -94,7 +102,7 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/demo/</loc>
+    <loc>https://example.com/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -102,11 +110,7 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>https://example.com/project/solar-roadways/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
