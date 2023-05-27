@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,45 +13,58 @@
     </image>
     
     <item>
-      <title>Библиография</title>
+      <title>Neural Networks</title>
+      <link>https://example.com/post/ai/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/ai/</guid>
+      <description>&lt;p&gt;Hello friends! Today I would like to talk about neural networks. Lately, they have become very popular in the world of technology and science, and are becoming more and more widespread every day. But what are neural networks and why do we need them?&lt;/p&gt;
+&lt;p&gt;Neural networks are systems that use artificial intelligence to recognize patterns, analyze data, and make decisions based on large amounts of information. They are created based on the working principles of the human brain, consisting of a large number of &amp;ldquo;neurons&amp;rdquo; and trained on large amounts of data.&lt;/p&gt;
+&lt;p&gt;Neural networks are used in various fields, from medicine to finance. They can help create accurate models for predicting changes in the economy, preventing crimes, developing drugs, and much more.&lt;/p&gt;
+&lt;p&gt;One of the most interesting aspects of neural networks is their ability to &amp;ldquo;learn.&amp;rdquo; This means that the system can change its behavior and adapt to new information, making it more efficient and accurate.&lt;/p&gt;
+&lt;p&gt;Of course, neural networks can have their drawbacks, such as the complexity of development and difficulties in understanding how they work. But I&amp;rsquo;m sure that with the help of neural networks, we can change and improve many areas of our lives.&lt;/p&gt;
+&lt;p&gt;So if you are interested in creating and using neural networks, I would recommend starting to study this amazing field right now. Who knows, maybe you will create the next innovative neural network that will change the world for the better!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bibliography</title>
       <link>https://example.com/post/bibliography/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/bibliography/</guid>
-      <description>&lt;p&gt;Работа с библиографией является неотъемлемой частью научного и исследовательского процесса. Корректно оформленная библиография позволяет не только украсить качественную научную работу, но и доказать ее научную состоятельность и авторитетность.&lt;/p&gt;
-&lt;p&gt;Но как правильно работать с библиографическими источниками? В первую очередь, необходимо правильно их выбрать. Для этого нужно знать, насколько источник подходит для решения научной задачи, качество и достоверность информации, которую он содержит.&lt;/p&gt;
-&lt;p&gt;Одним из самых важных аспектов работы с библиографией является ее оформление. При оформлении библиографического списка, необходимо учитывать требования учебного заведения, научного журнала и т.д. Но общие принципы формирования библиографии запомнить несложно.&lt;/p&gt;
-&lt;p&gt;Первое, что нужно указать, это фамилия, имя и отчество автора, далее, название книги, года ее издания и тому подобное, в зависимости от вида источника. Кроме того, не стоит забывать, что в библиографии необходимо указать все источники, которые использовались при подготовке работы, а не только те, что прямо цитировались.&lt;/p&gt;
-&lt;p&gt;Наконец, при работе с библиографическими источниками, нельзя забывать про их хранение. Хорошей практикой является сохранение всех найденных источников в специальной папке на компьютере, также их можно сохранять на записях, листах, бланках.&lt;/p&gt;
-&lt;p&gt;Как видите, работа с библиографией требует от нас внимание и аккуратность. Правильно оформленная библиография поможет однозначно указать, насколько правильно выполнена научная работа, и станет гарантией авторитетности.&lt;/p&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+      <description>&lt;p&gt;Working with bibliography is an integral part of the scientific and research process. Correctly formatted bibliography not only enhances the quality of the scientific work, but also proves its scientific validity and authority.&lt;/p&gt;
+&lt;p&gt;But how do you work with bibliographic sources correctly? First of all, it is necessary to select them correctly. To do this, one needs to know how suitable the source is for solving a scientific problem, the quality and reliability of the information it contains.&lt;/p&gt;
+&lt;p&gt;One of the most important aspects of working with bibliography is its formatting. When formatting a bibliographic list, it is necessary to consider the requirements of the educational institution, scientific journal, etc. However, it is easy to remember the general principles of forming a bibliography.&lt;/p&gt;
+&lt;p&gt;The first thing to indicate is the author&amp;rsquo;s name, followed by the title of the book, the year of its publication, and so on, depending on the type of source. In addition, do not forget that the bibliography should include all sources used in the preparation of the work, not just those directly quoted.&lt;/p&gt;
+&lt;p&gt;Finally, when working with bibliographic sources, do not forget about their storage. A good practice is to save all the sources found in a special folder on your computer, and also to keep them on records, sheets, or blanks.&lt;/p&gt;
+&lt;p&gt;As you can see, working with bibliography requires attention and accuracy. A correctly formatted bibliography will help indicate how well the scientific work is done and will become a guarantee of its authority.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Языки научного программирования</title>
+      <title>Scientific programming languages.</title>
       <link>https://example.com/post/the-science/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/the-science/</guid>
-      <description>&lt;p&gt;Языки научного программирования - это особый тип языков программирования, который ориентирован на решение задач в научных областях. Они обладают богатыми возможностями для работы с числами, матрицами, статистикой, графикой и т.д.&lt;/p&gt;
-&lt;p&gt;Одним из самых популярных языков научного программирования является Python. Он имеет широкий спектр библиотек, таких как NumPy, SciPy, Pandas, которые обеспечивают эффективную работу с числами, многомерными массивами и научными данными.&lt;/p&gt;
-&lt;p&gt;Еще одним интересным языком научного программирования является R. Он используется для анализа данных, статистики и визуализации. R обладает большим количеством библиотек для статистического анализа, таких как ggplot2, dplyr, tidyr и др.&lt;/p&gt;
-&lt;p&gt;Кроме того, есть и другие языки научного программирования, такие как Matlab и Octave. Они, как и Python, предназначены для работы с математическими операциями и анализа данных.&lt;/p&gt;
-&lt;p&gt;Самое главное преимущество использования языков научного программирования заключается в том, что они облегчают работу с большими объемами данных, способны выполнять сложные математические операции и обеспечивают высокую скорость вычислений.&lt;/p&gt;
-&lt;p&gt;Таким образом, языки научного программирования являются важным инструментом для специалистов в научных областях и исследователей. Они помогают упростить и ускорить процесс анализа данных и научных вычислений.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages.&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are a special type of programming languages that are oriented towards solving tasks in scientific fields. They have rich capabilities for working with numbers, matrices, statistics, graphics, and so on.&lt;/p&gt;
+&lt;p&gt;One of the most popular scientific programming languages is Python. It has a wide range of libraries, such as NumPy, SciPy, and Pandas, which provide efficient work with numbers, multidimensional arrays, and scientific data.&lt;/p&gt;
+&lt;p&gt;Another interesting scientific programming language is R. It is used for data analysis, statistics, and visualization. R has a large number of libraries for statistical analysis, such as ggplot2, dplyr, tidyr, and others.&lt;/p&gt;
+&lt;p&gt;In addition, there are other scientific programming languages, such as Matlab and Octave. Like Python, they are designed for working with mathematical operations and data analysis.&lt;/p&gt;
+&lt;p&gt;The most important advantage of using scientific programming languages is that they facilitate working with large amounts of data, can perform complex mathematical operations, and provide high-speed calculations.&lt;/p&gt;
+&lt;p&gt;Thus, scientific programming languages are an important tool for specialists in scientific fields and researchers. They help simplify and accelerate the process of data analysis and scientific calculations.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями Git</title>
+      <title>Git version control</title>
       <link>https://example.com/post/git/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/git/</guid>
-      <description>&lt;p&gt;Git - это распределенная система управления версиями, которая используется для отслеживания изменений в коде и управления проектами. Она позволяет разработчикам работать над одним проектом, сохраняя все изменения и контролируя их.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Одной из основных функций Git является возможность создавать ветки, которые позволяют работать над различными версиями кода. Это позволяет разработчикам проводить эксперименты, исправлять ошибки и добавлять новые функции без риска повредить основную ветку.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Кроме того, Git предоставляет возможность слияния веток. Это означает, что разработчики могут объединять свои изменения в одну основную ветку, что позволяет сохранять все изменения и контролировать их.&lt;/p&gt;
-&lt;h3 id=&#34;откаты&#34;&gt;Откаты&lt;/h3&gt;
-&lt;p&gt;Git также позволяет откатываться к предыдущим версиям кода. Это может быть полезно, если в процессе разработки была допущена ошибка или если новые функции не работают должным образом.
-.&lt;/p&gt;
+      <description>&lt;p&gt;Git is a distributed version control system used to track changes in code and manage projects. It allows developers to work on one project while keeping track of all changes and controlling them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;One of Git&amp;rsquo;s main functions is the ability to create branches, which allow for working on different versions of code. This allows developers to experiment, fix errors, and add new features without the risk of damaging the main branch.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Additionally, Git provides the ability to merge branches. This means developers can combine their changes into one main branch, ensuring all changes are kept track of and controlled.&lt;/p&gt;
+&lt;h3 id=&#34;kickbacks&#34;&gt;Kickbacks&lt;/h3&gt;
+&lt;p&gt;Git also allows for rolling back to previous versions of code. This can be useful if mistakes are made during development or if new features are not functioning properly.&lt;/p&gt;
 &lt;p&gt;Simply insert a Markdown &lt;code&gt;markmap&lt;/code&gt; code block and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
 &lt;p&gt;Ветка Git:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;
@@ -76,27 +89,42 @@
   - Компьютер №4(Китай)&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Наконец, Git обеспечивает возможность совместной работы. Разработчики могут работать над одним проектом, сохраняя все изменения и контролируя их. Это позволяет легко обмениваться кодом и сотрудничать на удаленном сервере.&lt;/p&gt;
-&lt;p&gt;В целом, Git является мощным инструментом для управления версиями кода. Он позволяет разработчикам работать над одним проектом, сохраняя все изменения и контролируя их. Если вы еще не используете Git, то рекомендуем начать изучение этой системы управления версиями уже сегодня!&lt;/p&gt;
+&lt;p&gt;Finally, Git provides the ability to collaborate. Developers can work on the same project, keeping track of all changes. This makes it easy to exchange code and collaborate on a remote server.&lt;/p&gt;
+&lt;p&gt;Overall, Git is a powerful tool for managing code versions. It allows developers to work on the same project, keeping track of all changes. If you are not using Git yet, we recommend starting to learn this version control system today!&lt;/p&gt;
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
 </description>
     </item>
     
     <item>
-      <title>На позопрошлой неделе</title>
+      <title>Fifth stage week.</title>
+      <link>https://example.com/post/this-week/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/this-week/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
+&lt;p&gt;Last week was bright and eventful for me. Every day I went to classes at the university, where I learned and expanded my knowledge. But that was just the beginning of my adventures over the past few days&amp;hellip;&lt;/p&gt;
+&lt;p&gt;As soon as I finished my studies, I pursued my passion - fixing laptops. I received different models from ASUS, DELL, HP, MacBook, Lenovo, and knew that each of them required its own special approach. But I was ready for this and always treated each laptop with high responsibility and care.&lt;/p&gt;
+&lt;p&gt;When I returned the restored equipment to its owners, I often saw gratitude on their faces. Somehow, it even seemed that my profession not only helped me make a living, but also helped me contribute to the lives of other people. And that was truly inspiring.&lt;/p&gt;
+&lt;p&gt;But lastly, I would like to remind all computer owners of the importance of their technical condition. Take care of your devices, monitor their performance, and they will please you with their functions for a long time. I wish everyone&amp;rsquo;s technology never breaks down, remains reliable and safe. Respect, appreciate, and use your laptops with respect and they will give you much more in return.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last last week</title>
       <link>https://example.com/post/last-last-last-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/last-last-last-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
-&lt;p&gt;За прошедшую неделю у меня было много дел и событий. Я продолжал работу над своими проектами и учился новым вещам.&lt;/p&gt;
-&lt;p&gt;В понедельник я закончил работу над одним из своих проектов и начал работу над следующим. Этот проект связан с разработкой веб-приложения, которое поможет людям находить и бронировать столики в ресторанах.&lt;/p&gt;
-&lt;p&gt;Во вторник я посетил онлайн-курс по программированию на Python. Я узнал много интересных вещей о работе с файлами и базами данных.&lt;/p&gt;
-&lt;p&gt;В среду я провел несколько часов, изучая новые технологии для разработки мобильных приложений. Я изучал React Native и Ionic Framework.&lt;/p&gt;
-&lt;p&gt;В четверг я посетил вебинар о том, как эффективно использовать Git при работе в команде. Я узнал много полезных советов и трюков, которые помогут мне в будущем.&lt;/p&gt;
-&lt;p&gt;В пятницу я провел время, изучая алгоритмы и структуры данных. Я решил несколько задач на LeetCode и HackerRank, чтобы улучшить свои навыки программирования.&lt;/p&gt;
-&lt;p&gt;В целом, прошедшая неделя была очень продуктивной и интересной. Я узнал много нового и продвинулся в своих проектах. Я уже жду следующей недели, чтобы продолжить свою работу и учебу.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
+&lt;p&gt;I had a lot of tasks and events during the past week. I continued working on my projects and learning new things.&lt;/p&gt;
+&lt;p&gt;On Monday, I finished one of my projects and started working on the next one. This project involves developing a web application that helps people find and book tables in restaurants.&lt;/p&gt;
+&lt;p&gt;On Tuesday, I attended an online course on programming in Python. I learned many interesting things about working with files and databases.&lt;/p&gt;
+&lt;p&gt;On Wednesday, I spent several hours learning new technologies for developing mobile applications. I studied React Native and Ionic Framework.&lt;/p&gt;
+&lt;p&gt;On Thursday, I attended a webinar on how to effectively use Git when working in a team. I learned many useful tips and tricks that will help me in the future.&lt;/p&gt;
+&lt;p&gt;On Friday, I spent time studying algorithms and data structures. I solved several tasks on LeetCode and HackerRank to improve my programming skills.&lt;/p&gt;
+&lt;p&gt;Overall, the past week was very productive and interesting. I learned a lot of new things and progressed in my projects. I am already looking forward to the next week to continue my work and studies.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
 
@@ -165,99 +193,20 @@
     </item>
     
     <item>
-      <title>На прошлой неделе</title>
-      <link>https://example.com/post/john-week/</link>
-      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/john-week/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
-&lt;p&gt;Прошлая неделя для меня была очень насыщенной и плодотворной. Я посвятил много времени учебе и благодаря своей усидчивости и активному участию на занятиях, заработал хороший бал. Кроме того, я смог помочь многим своим одногруппникам, наставляя их и поддерживая в изучении тех или иных тем, что было для меня очень приятно.&lt;/p&gt;
-&lt;p&gt;Знакомство с новыми людьми также стало для меня большим достижением. Я познакомился с интересными и умными людьми, которые определенно будут важными для меня в профессиональном развитии. Мы общались на занятиях и даже обменивались опытом в учебе, что способствовало еще большему расширению моих знаний.&lt;/p&gt;
-&lt;p&gt;Я также нашел время, чтобы помочь одним моим знакомым с домашним заданием и просто поддержать друзей в трудной ситуации. Я убедился, что помощь и поддержка окружающих людей - это одно из главных условий успеха в жизни.&lt;/p&gt;
-&lt;p&gt;В целом, прошедшая неделя была для меня очень поучительной и вдохновляющей. Я узнал много нового, нашел новых друзей и смог показать свои лучшие качества, а также оказать помощь людям, которые в ней нуждались.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;начать&#34;&gt;Начать&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Создать новый сайт&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Оформление сайта&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Переписка с &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;командой Hugo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Телеграф: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Обновить WOWCHEMY&lt;/strong&gt; показать &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Обновление пособия&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;поддержка-финансами&#34;&gt;Поддержка финансами&lt;/h2&gt;
-&lt;p&gt;Чтобы поддержать развитие проекта вы можете отправлять мне на номер +7-936-515-16-13 деньги.&lt;/p&gt;
-&lt;h3 id=&#34;-нажмите-для-перевода-денег-со-счёта-httpswowchemycomsponsor&#34;&gt;&lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ НАЖМИТЕ ДЛЯ ПЕРЕВОДА ДЕНЕГ СО СЧЁТА ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;За токены вы сможете **открыть &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;эти&lt;/a&gt; удисительные награды и супер плюшки&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2049-present Все права защищены &lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D0%BB%D0%B8%D0%BD%D0%B3,_%D0%A0%D0%B0%D0%B9%D0%B0%D0%BD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Райан Гослинг&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>На прошлой неделе</title>
+      <title>Last week</title>
       <link>https://example.com/post/last-last-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/last-last-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
-&lt;p&gt;На прошлой неделе я наслаждался прекрасной погодой и гулял по зеленым зонам Москвы. Несмотря на то, что город очень оживленный и шумный, я нашел целый ряд уютных и тихих мест, в которых можно было отдохнуть и расслабиться.&lt;/p&gt;
-&lt;p&gt;В понедельник я начал свой день с прогулки в парке &amp;ldquo;Тимирязевский&amp;rdquo;, который находится в северной части Москвы. Я исследовал различные тропинки и аллеи, наслаждался живописными видами, а также слушал пение птиц. Это был идеальный начало недели.&lt;/p&gt;
-&lt;p&gt;Далее я отправился в Музей-заповедник &amp;ldquo;Царицыно&amp;rdquo;, чтобы посмотреть поместье царицы Екатерины II. Я провел там два часа, любуясь прекрасными садами и архитектурой. После этого я отправился в ГУМ, чтобы пообедать.&lt;/p&gt;
-&lt;p&gt;Во вторник я отправился в парк &amp;ldquo;Горького&amp;rdquo;, который находится в центре города. Я прогулялся по его оживленным аллеям, наслаждался видами на берегу Москва-реки и посмотрел на Соборы Московского Кремля вдали.&lt;/p&gt;
-&lt;p&gt;Следующим местом на моем списке был парк &amp;ldquo;Зарядье&amp;rdquo;. Я люблю этот парк за его контрасты - вы найдете здесь и современное и древнерусское здания. Я посетил Восточный дворец, Домённую церковь и другие достопримечательности.&lt;/p&gt;
-&lt;p&gt;В конце недели я отправился в вечернюю прогулку по парку &amp;ldquo;Сокольники&amp;rdquo;, чтобы насладиться фонтанами и красочной игрой света. Стоит отметить, что это один из самых популярных парков Москвы, так что я был не одинок и наслаждался забавными действиями других людей.&lt;/p&gt;
-&lt;p&gt;Неделя закончилась очень хорошо, и я остался очень довольным и отдохнувшим. Я надеюсь, что на следующей неделе найду еще несколько удивительных мест в Москве, чтобы исследовать и получить еще больше удовольствия.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
+&lt;p&gt;Last week, I enjoyed the beautiful weather and walked through Moscow&amp;rsquo;s green zones. Despite the city being very lively and noisy, I found a number of cozy and quiet places where I could relax and unwind.&lt;/p&gt;
+&lt;p&gt;On Monday, I started my day with a walk in Timiryazevsky Park, which is located in the northern part of Moscow. I explored various pathways and alleys, enjoyed scenic views, and listened to bird songs. It was the perfect start to the week.&lt;/p&gt;
+&lt;p&gt;Next, I visited the Tsaritsyno Museum-Reserve to see the mansion of Empress Catherine II. I spent two hours there, admiring the beautiful gardens and architecture. Afterward, I went to GUM to have lunch.&lt;/p&gt;
+&lt;p&gt;On Tuesday, I went to Gorky Park, which is located in the city center. I strolled along its bustling alleys, enjoyed views of the Moscow River shoreline, and looked at the cathedrals of Moscow Kremlin in the distance.&lt;/p&gt;
+&lt;p&gt;The next place on my list was Zaryadye Park. I love this park for its contrasts - you&amp;rsquo;ll find both modern and ancient Russian buildings here. I visited the Eastern Palace, the House Church, and other landmarks.&lt;/p&gt;
+&lt;p&gt;At the end of the week, I went for an evening walk in Sokolniki Park, to enjoy the fountains and colorful light show. It&amp;rsquo;s worth noting that this is one of the most popular parks in Moscow, so I wasn&amp;rsquo;t alone and enjoyed the fun actions of other people.&lt;/p&gt;
+&lt;p&gt;The week ended very well, and I was very satisfied and rested. I hope to find a few more amazing places in Moscow to explore and enjoy next week.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
 
@@ -326,22 +275,102 @@
     </item>
     
     <item>
-      <title>Неделя пятого этапа</title>
-      <link>https://example.com/post/this-week/</link>
+      <title>Last week.</title>
+      <link>https://example.com/post/john-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/this-week/</guid>
+      <guid>https://example.com/post/john-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
-&lt;p&gt;Прошлая неделя была яркой и насыщенной для меня. Каждый день я ходил на пары в ВУЗ, где учился и расширял свои знания. Но это было только начало моих приключений за последние несколько дней&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Как только я заканчивал учебные занятия, я устремлялся к своей страсти - ремонтированию ноутбуков. Я получал разные модели от ASUS, DELL, HP, MacBook, Lenovo и знал, что каждый из них требует своего особого подхода. Но я был готов к этому и всегда относился к каждому ноутбуку с высокой ответственностью и заботой.&lt;/p&gt;
-&lt;p&gt;Когда я возвращал восстановленную технику своим владельцам, я часто видел благодарность на их лицах. Как-то, даже стало казаться, что моя профессия не просто помогает мне заработать на жизнь, но и помогает мне вносить свой вклад в жизнь других людей. И это было поистине вдохновляющим.&lt;/p&gt;
-&lt;p&gt;Но напоследок я хотел бы напомнить всем владельцам компьютерной техники о важности ее технического состояния. Берегите свои устройства, следите за их работой, и они будут долгое время радовать вас своими функциями. Желаю всем, чтобы техника никогда не ломалась и оставалась в надежности и безопасности. Берегите, цените и используйте свои ноутбуки с уважением и те вернут вам много больше.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
+&lt;p&gt;Last week was very busy and productive for me. I devoted a lot of time to studying and, thanks to my diligence and active participation in classes, earned a good grade. Additionally, I was able to help many of my classmates by guiding and supporting them in the learning of various topics, which was very rewarding for me.&lt;/p&gt;
+&lt;p&gt;Meeting new people was also a big accomplishment for me. I met interesting and intelligent individuals who will definitely be important for my professional development. We communicated in classes and even exchanged experiences in learning, which contributed to further expansion of my knowledge.&lt;/p&gt;
+&lt;p&gt;I also found time to help one of my acquaintances with their homework and simply support friends in difficult situations. I realized that helping and supporting people around us is one of the main conditions for success in life.&lt;/p&gt;
+&lt;p&gt;Overall, last week was very instructive and inspiring for me. I learned a lot of new things, found new friends, and was able to demonstrate my best qualities, as well as provide assistance to those who needed it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;начать&#34;&gt;Начать&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Создать новый сайт&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Оформление сайта&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Переписка с &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;командой Hugo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Телеграф: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Обновить WOWCHEMY&lt;/strong&gt; показать &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Обновление пособия&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;поддержка-финансами&#34;&gt;Поддержка финансами&lt;/h2&gt;
+&lt;p&gt;Чтобы поддержать развитие проекта вы можете отправлять мне на номер +7-936-515-16-13 деньги.&lt;/p&gt;
+&lt;h3 id=&#34;-нажмите-для-перевода-денег-со-счёта-httpswowchemycomsponsor&#34;&gt;&lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ НАЖМИТЕ ДЛЯ ПЕРЕВОДА ДЕНЕГ СО СЧЁТА ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;За токены вы сможете **открыть &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;эти&lt;/a&gt; удисительные награды и супер плюшки&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2049-present Все права защищены &lt;a href=&#34;https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D0%BB%D0%B8%D0%BD%D0%B3,_%D0%A0%D0%B0%D0%B9%D0%B0%D0%BD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Райан Гослинг&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Язык разметки Markdown</title>
+      <title>Week six Stage.</title>
+      <link>https://example.com/post/end-of-weeks/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/end-of-weeks/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
+&lt;p&gt;The past week was very intense for me. I hardly left my house because I was busy with studying and projects. I spent all my free time on my computer, specifically on my laptop.&lt;/p&gt;
+&lt;p&gt;My main task was to write programs for various Python projects. I learned about different libraries, efficient algorithms, and problem-solving methods. It was very interesting and informative because I gained new knowledge and skills that will be useful to me in the future.&lt;/p&gt;
+&lt;p&gt;In addition, I learned how to create projects using Arduino. This microcontroller allows you to implement various ideas - from simple LED beacons to complex devices with automatic control systems. I assembled prototypes and programmed different modules.&lt;/p&gt;
+&lt;p&gt;I also studied neural networks - one of the most promising areas of programming that allows you to create artificial intelligence systems. I learned a lot about how multilayer neural networks work and how they can be used to solve complex problems.&lt;/p&gt;
+&lt;p&gt;Every day I learned something new and practiced my skills. Although I didn&amp;rsquo;t go outside, I still felt that the past week was very productive and interesting. I am confident that the knowledge I gained will be useful to me in the future and help me reach new heights in programming.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown markup language</title>
       <link>https://example.com/post/markdown/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/markdown/</guid>
@@ -366,12 +395,12 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;язык-разметки-markdown&#34;&gt;Язык разметки Markdown&lt;/h2&gt;
-&lt;p&gt;Язык разметки Markdown - это простой язык разметки текста, который используется для форматирования и стилизации текста без необходимости заучивания сложных команд и языков программирования. Markdown был создан в 2004 году Джоном Грубером и Аароном Шварцем для использования в блогах, сайтах и электронной почте, чтобы облегчить написание и форматирование текста.&lt;/p&gt;
-&lt;p&gt;Основная идея Markdown заключается в том, что каждый элемент разметки имеет свой собственный смысл, что позволяет быстро и легко создавать жирный текст, заголовки, списки, таблицы и ссылки. Синтаксис Markdown интуитивно понятен и достаточно простой для освоения. Вот несколько примеров:&lt;/p&gt;
-&lt;p&gt;Разметка Markdown легко конвертируется в HTML, что позволяет использовать её с любыми документами, включая web-страницы, презентации, электронные книги и документацию разработчика. Многие сайты, включая GitHub, используют Markdown для форматирования описаний репозиториев, README файлов и других документов.&lt;/p&gt;
-&lt;p&gt;Markdown является открытым стандартом и доступен для использования в любых приложениях и системах управления контентом. Существует множество инструментов и редакторов, включая Atom, VS Code, MarkdownPad и Typora, которые предоставляют возможность использовать Markdown для написания и форматирования текста.&lt;/p&gt;
-&lt;p&gt;В целом, Markdown предоставляет удобный и быстрый способ форматирования и стилизации текста без необходимости знания сложных языков программирования и позволяет пользователям сосредоточиться на содержании текста, а не на форматировании.&lt;/p&gt;
+&lt;h2 id=&#34;markdown-markup-language&#34;&gt;Markdown markup language&lt;/h2&gt;
+&lt;p&gt;Markdown is a simple text markup language used for formatting and styling text without the need to learn complex programming languages and commands. It was created by John Gruber and Aaron Swartz in 2004 for use in blogs, websites, and email to facilitate easy text writing and formatting.&lt;/p&gt;
+&lt;p&gt;The main idea behind Markdown is that each markup element has its own meaning, making it easy to quickly and easily create bold text, headings, lists, tables, and links. The syntax of Markdown is intuitive and simple to learn. Here are some examples:&lt;/p&gt;
+&lt;p&gt;Markdown markup easily converts to HTML, allowing it to be used with any documents, including web pages, presentations, e-books, and developer documentation. Many websites, including GitHub, use Markdown to format repository descriptions, README files, and other documents.&lt;/p&gt;
+&lt;p&gt;Markdown is an open standard and available for use in any applications and content management systems. There are many tools and editors, including Atom, VS Code, MarkdownPad, and Typora, that provide the ability to use Markdown for writing and formatting text.&lt;/p&gt;
+&lt;p&gt;Overall, Markdown provides a convenient and fast way to format and style text without needing to know complex programming languages. It allows users to focus on the content of the text, rather than on formatting.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
