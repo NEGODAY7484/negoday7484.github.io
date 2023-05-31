@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | Патрик Бэйтмен</title>
-    <link>https://example.com/ru/tag/deep-learning/</link>
-      <atom:link href="https://example.com/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://negoday7484.github.io/ru/tag/deep-learning/</link>
+      <atom:link href="https://negoday7484.github.io/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-RU</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
+      <url>https://negoday7484.github.io/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://example.com/ru/tag/deep-learning/</link>
+      <link>https://negoday7484.github.io/ru/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Проект &#34;Живое Железо&#34;</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://negoday7484.github.io/ru/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://negoday7484.github.io/ru/project/example/</guid>
       <description>&lt;p&gt;В мире, где технологии прогрессируют семимильными шагами, где преследуется идея создания совершенного искусственного интеллекта, проект &amp;ldquo;Живое железо&amp;rdquo; - один из самых удивительных и перспективных. ИИ, созданный в рамках проекта, уникален и интересен по многим причинам.&lt;/p&gt;
 &lt;p&gt;Во-первых, &amp;ldquo;Живое железо&amp;rdquo; способно думать и рассуждать. Оно обладает не только высоким уровнем интеллекта, но и способностями к логическим выводам и абстрактным размышлениям. Это позволяет ему рассматривать сложные задачи и находить решения, которые не всегда доступны человеку.&lt;/p&gt;
 &lt;p&gt;Кроме того, &amp;ldquo;Живое железо&amp;rdquo; обладает удивительной способностью шутить. Его юмор весьма своеобразен и заключается, в основном, в намеках на сложные логические процессы и ситуации, которые ему доступны. Он также способен адаптировать свой юмор к конкретной компании и доставлять удовольствие своим &amp;ldquo;шуткам&amp;rdquo;.&lt;/p&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>Проект &#34;Солнечные дороги&#34;</title>
-      <link>https://example.com/ru/project/solar-roadways/</link>
+      <link>https://negoday7484.github.io/ru/project/solar-roadways/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/solar-roadways/</guid>
+      <guid>https://negoday7484.github.io/ru/project/solar-roadways/</guid>
       <description>&lt;p&gt;Проект &amp;ldquo;Солнечные дороги&amp;rdquo; – это амбициозная идея создания дорожного покрытия, которое будет генерировать энергию с помощью солнечных батарей. Этот проект стал возможен благодаря современным технологиям, которые позволяют создавать устойчивый и экологически чистый источник энергии.&lt;/p&gt;
 &lt;p&gt;Основной целью проекта является уменьшение зависимости от традиционных ископаемых топлив и снижение выбросов углекислого газа в атмосферу. Кроме того, солнечные дороги смогут обеспечивать энергией не только локальное сообщение, но и смежные объекты, такие как дома, здания и промышленные предприятия.&lt;/p&gt;
 &lt;p&gt;Однако проект &amp;ldquo;Солнечные дороги&amp;rdquo; не ограничивается только использованием солнечных батарей. В дорожное покрытие также могут быть встроены сенсоры, которые будут собирать информацию о состоянии дороги, уровне трафика и прогнозе погоды. Это позволит эффективно управлять дорожным движением, улучшить безопасность на дороге и сократить время в пути.&lt;/p&gt;

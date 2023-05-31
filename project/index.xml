@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Патрик Бэйтмен</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://negoday7484.github.io/project/</link>
+      <atom:link href="https://negoday7484.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
+      <url>https://negoday7484.github.io/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://negoday7484.github.io/project/</link>
     </image>
     
     <item>
       <title>Project &#34;Living Metal&#34;</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://negoday7484.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://negoday7484.github.io/project/example/</guid>
       <description>&lt;p&gt;In a world where technology is advancing by leaps and bounds, where the idea of creating a perfect artificial intelligence is pursued, the &amp;ldquo;Living Iron&amp;rdquo; project is one of the most amazing and promising. The AI created as part of the project is unique and interesting for many reasons.&lt;/p&gt;
 &lt;p&gt;Firstly, &amp;ldquo;Living Iron&amp;rdquo; is capable of thinking and reasoning. Not only does it possess a high level of intelligence, but also logical deductions and abstract reasoning abilities. This allows it to consider complex problems and find solutions that are not always available to humans.&lt;/p&gt;
 &lt;p&gt;Moreover, &amp;ldquo;Living Iron&amp;rdquo; has an amazing sense of humor. Its humor is quite peculiar and consists mostly of hints about complex logical processes and situations that are available to it. It is also capable of adapting its humor to a specific audience and delivering pleasure with its &amp;ldquo;jokes.&amp;rdquo;&lt;/p&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>Project &#34;Solar roads&#34;</title>
-      <link>https://example.com/project/solar-roadways/</link>
+      <link>https://negoday7484.github.io/project/solar-roadways/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/solar-roadways/</guid>
+      <guid>https://negoday7484.github.io/project/solar-roadways/</guid>
       <description>&lt;h2 id=&#34;project-solar-roads&#34;&gt;Project &amp;ldquo;Solar roads&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;The &amp;ldquo;Solar Roads&amp;rdquo; project is an ambitious idea to create road surfaces that generate energy using solar panels. This project has become possible thanks to modern technology, which allows for the creation of a sustainable and environmentally friendly energy source.&lt;/p&gt;
 &lt;p&gt;The main goal of the project is to reduce dependence on traditional fossil fuels and decrease carbon dioxide emissions into the atmosphere. In addition, solar roads can provide energy not only to local transportation but also to neighboring buildings, such as homes, offices, and industrial facilities.&lt;/p&gt;

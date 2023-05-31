@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Патрик Бэйтмен</title>
-    <link>https://example.com/ru/post/</link>
-      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://negoday7484.github.io/ru/post/</link>
+      <atom:link href="https://negoday7484.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-RU</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
+      <url>https://negoday7484.github.io/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/ru/post/</link>
+      <link>https://negoday7484.github.io/ru/post/</link>
     </image>
     
     <item>
       <title>Нейросети</title>
-      <link>https://example.com/ru/post/ai/</link>
+      <link>https://negoday7484.github.io/ru/post/ai/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/ai/</guid>
+      <guid>https://negoday7484.github.io/ru/post/ai/</guid>
       <description>&lt;p&gt;Привет, друзья! Сегодня я хотел бы поговорить о нейросетях. В последнее время они стали очень популярными в мире технологий и науки, и с каждым днем становятся все более и более распространенными. Но что такое нейросети и зачем они нужны?&lt;/p&gt;
 &lt;p&gt;Нейросети – это системы, которые используют искусственный интеллект для распознавания образов, анализа данных и принятия решений на основе большого объема информации. Они создаются по принципу работы человеческого мозга, состоят из большого количества «нейронов» и обучаются на большом количестве данных.&lt;/p&gt;
 &lt;p&gt;Нейросети используются в различных сферах, от медицины до финансов. Они могут помочь в создании точных моделей для прогнозирования изменений в экономике, предотвращения преступлений, разработки лекарств и многом другом.&lt;/p&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Библиография</title>
-      <link>https://example.com/ru/post/bibliography/</link>
+      <link>https://negoday7484.github.io/ru/post/bibliography/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/bibliography/</guid>
+      <guid>https://negoday7484.github.io/ru/post/bibliography/</guid>
       <description>&lt;p&gt;Работа с библиографией является неотъемлемой частью научного и исследовательского процесса. Корректно оформленная библиография позволяет не только украсить качественную научную работу, но и доказать ее научную состоятельность и авторитетность.&lt;/p&gt;
 &lt;p&gt;Но как правильно работать с библиографическими источниками? В первую очередь, необходимо правильно их выбрать. Для этого нужно знать, насколько источник подходит для решения научной задачи, качество и достоверность информации, которую он содержит.&lt;/p&gt;
 &lt;p&gt;Одним из самых важных аспектов работы с библиографией является ее оформление. При оформлении библиографического списка, необходимо учитывать требования учебного заведения, научного журнала и т.д. Но общие принципы формирования библиографии запомнить несложно.&lt;/p&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>https://example.com/ru/post/the-science/</link>
+      <link>https://negoday7484.github.io/ru/post/the-science/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/the-science/</guid>
+      <guid>https://negoday7484.github.io/ru/post/the-science/</guid>
       <description>&lt;p&gt;Языки научного программирования - это особый тип языков программирования, который ориентирован на решение задач в научных областях. Они обладают богатыми возможностями для работы с числами, матрицами, статистикой, графикой и т.д.&lt;/p&gt;
 &lt;p&gt;Одним из самых популярных языков научного программирования является Python. Он имеет широкий спектр библиотек, таких как NumPy, SciPy, Pandas, которые обеспечивают эффективную работу с числами, многомерными массивами и научными данными.&lt;/p&gt;
 &lt;p&gt;Еще одним интересным языком научного программирования является R. Он используется для анализа данных, статистики и визуализации. R обладает большим количеством библиотек для статистического анализа, таких как ggplot2, dplyr, tidyr и др.&lt;/p&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>Управление версиями Git</title>
-      <link>https://example.com/ru/post/git/</link>
+      <link>https://negoday7484.github.io/ru/post/git/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/git/</guid>
+      <guid>https://negoday7484.github.io/ru/post/git/</guid>
       <description>&lt;p&gt;Git - это распределенная система управления версиями, которая используется для отслеживания изменений в коде и управления проектами. Она позволяет разработчикам работать над одним проектом, сохраняя все изменения и контролируя их.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Одной из основных функций Git является возможность создавать ветки, которые позволяют работать над различными версиями кода. Это позволяет разработчикам проводить эксперименты, исправлять ошибки и добавлять новые функции без риска повредить основную ветку.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Кроме того, Git предоставляет возможность слияния веток. Это означает, что разработчики могут объединять свои изменения в одну основную ветку, что позволяет сохранять все изменения и контролировать их.&lt;/p&gt;
@@ -98,9 +98,9 @@
     
     <item>
       <title>На позопрошлой неделе</title>
-      <link>https://example.com/ru/post/last-last-last-week/</link>
+      <link>https://negoday7484.github.io/ru/post/last-last-last-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-last-last-week/</guid>
+      <guid>https://negoday7484.github.io/ru/post/last-last-last-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
@@ -180,9 +180,9 @@
     
     <item>
       <title>На прошлой неделе</title>
-      <link>https://example.com/ru/post/john-week/</link>
+      <link>https://negoday7484.github.io/ru/post/john-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/john-week/</guid>
+      <guid>https://negoday7484.github.io/ru/post/john-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
@@ -259,9 +259,9 @@
     
     <item>
       <title>На прошлой неделе</title>
-      <link>https://example.com/ru/post/last-last-week/</link>
+      <link>https://negoday7484.github.io/ru/post/last-last-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-last-week/</guid>
+      <guid>https://negoday7484.github.io/ru/post/last-last-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
@@ -341,9 +341,9 @@
     
     <item>
       <title>Неделя пятого этапа</title>
-      <link>https://example.com/ru/post/this-week/</link>
+      <link>https://negoday7484.github.io/ru/post/this-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/this-week/</guid>
+      <guid>https://negoday7484.github.io/ru/post/this-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
@@ -356,9 +356,9 @@
     
     <item>
       <title>Неделя шестого этапа</title>
-      <link>https://example.com/ru/post/end-of-weeks/</link>
+      <link>https://negoday7484.github.io/ru/post/end-of-weeks/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/end-of-weeks/</guid>
+      <guid>https://negoday7484.github.io/ru/post/end-of-weeks/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
@@ -372,9 +372,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://example.com/ru/post/markdown/</link>
+      <link>https://negoday7484.github.io/ru/post/markdown/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markdown/</guid>
+      <guid>https://negoday7484.github.io/ru/post/markdown/</guid>
       <description>&lt;p&gt;
 
 

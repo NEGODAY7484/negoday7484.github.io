@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Патрик Бэйтмен</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://negoday7484.github.io/</link>
+      <atom:link href="https://negoday7484.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Патрик Бэйтмен</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
+      <url>https://negoday7484.github.io/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
       <title>Патрик Бэйтмен</title>
-      <link>https://example.com/</link>
+      <link>https://negoday7484.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://negoday7484.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://negoday7484.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Neural Networks</title>
-      <link>https://example.com/post/ai/</link>
+      <link>https://negoday7484.github.io/post/ai/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/ai/</guid>
+      <guid>https://negoday7484.github.io/post/ai/</guid>
       <description>&lt;p&gt;Hello friends! Today I would like to talk about neural networks. Lately, they have become very popular in the world of technology and science, and are becoming more and more widespread every day. But what are neural networks and why do we need them?&lt;/p&gt;
 &lt;p&gt;Neural networks are systems that use artificial intelligence to recognize patterns, analyze data, and make decisions based on large amounts of information. They are created based on the working principles of the human brain, consisting of a large number of &amp;ldquo;neurons&amp;rdquo; and trained on large amounts of data.&lt;/p&gt;
 &lt;p&gt;Neural networks are used in various fields, from medicine to finance. They can help create accurate models for predicting changes in the economy, preventing crimes, developing drugs, and much more.&lt;/p&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>Bibliography</title>
-      <link>https://example.com/post/bibliography/</link>
+      <link>https://negoday7484.github.io/post/bibliography/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/bibliography/</guid>
+      <guid>https://negoday7484.github.io/post/bibliography/</guid>
       <description>&lt;p&gt;Working with bibliography is an integral part of the scientific and research process. Correctly formatted bibliography not only enhances the quality of the scientific work, but also proves its scientific validity and authority.&lt;/p&gt;
 &lt;p&gt;But how do you work with bibliographic sources correctly? First of all, it is necessary to select them correctly. To do this, one needs to know how suitable the source is for solving a scientific problem, the quality and reliability of the information it contains.&lt;/p&gt;
 &lt;p&gt;One of the most important aspects of working with bibliography is its formatting. When formatting a bibliographic list, it is necessary to consider the requirements of the educational institution, scientific journal, etc. However, it is easy to remember the general principles of forming a bibliography.&lt;/p&gt;
@@ -62,9 +62,9 @@
     
     <item>
       <title>Scientific programming languages.</title>
-      <link>https://example.com/post/the-science/</link>
+      <link>https://negoday7484.github.io/post/the-science/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/the-science/</guid>
+      <guid>https://negoday7484.github.io/post/the-science/</guid>
       <description>&lt;h2 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages.&lt;/h2&gt;
 &lt;p&gt;Scientific programming languages are a special type of programming languages that are oriented towards solving tasks in scientific fields. They have rich capabilities for working with numbers, matrices, statistics, graphics, and so on.&lt;/p&gt;
 &lt;p&gt;One of the most popular scientific programming languages is Python. It has a wide range of libraries, such as NumPy, SciPy, and Pandas, which provide efficient work with numbers, multidimensional arrays, and scientific data.&lt;/p&gt;
@@ -77,9 +77,9 @@
     
     <item>
       <title>Git version control</title>
-      <link>https://example.com/post/git/</link>
+      <link>https://negoday7484.github.io/post/git/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/git/</guid>
+      <guid>https://negoday7484.github.io/post/git/</guid>
       <description>&lt;p&gt;Git is a distributed version control system used to track changes in code and manage projects. It allows developers to work on one project while keeping track of all changes and controlling them.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;One of Git&amp;rsquo;s main functions is the ability to create branches, which allow for working on different versions of code. This allows developers to experiment, fix errors, and add new features without the risk of damaging the main branch.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Additionally, Git provides the ability to merge branches. This means developers can combine their changes into one main branch, ensuring all changes are kept track of and controlled.&lt;/p&gt;
@@ -117,9 +117,9 @@
     
     <item>
       <title>Fifth stage week.</title>
-      <link>https://example.com/post/this-week/</link>
+      <link>https://negoday7484.github.io/post/this-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/this-week/</guid>
+      <guid>https://negoday7484.github.io/post/this-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
@@ -132,9 +132,9 @@
     
     <item>
       <title>Last last week</title>
-      <link>https://example.com/post/last-last-last-week/</link>
+      <link>https://negoday7484.github.io/post/last-last-last-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-last-last-week/</guid>
+      <guid>https://negoday7484.github.io/post/last-last-last-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
@@ -214,9 +214,9 @@
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/last-last-week/</link>
+      <link>https://negoday7484.github.io/post/last-last-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-last-week/</guid>
+      <guid>https://negoday7484.github.io/post/last-last-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
@@ -296,9 +296,9 @@
     
     <item>
       <title>Last week.</title>
-      <link>https://example.com/post/john-week/</link>
+      <link>https://negoday7484.github.io/post/john-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/john-week/</guid>
+      <guid>https://negoday7484.github.io/post/john-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
@@ -375,9 +375,9 @@
     
     <item>
       <title>Week six Stage.</title>
-      <link>https://example.com/post/end-of-weeks/</link>
+      <link>https://negoday7484.github.io/post/end-of-weeks/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/end-of-weeks/</guid>
+      <guid>https://negoday7484.github.io/post/end-of-weeks/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
@@ -391,9 +391,9 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>https://negoday7484.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>https://negoday7484.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -405,9 +405,9 @@
     
     <item>
       <title>Markdown markup language</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>https://negoday7484.github.io/post/markdown/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>https://negoday7484.github.io/post/markdown/</guid>
       <description>&lt;p&gt;
 
 
@@ -442,9 +442,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://negoday7484.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://negoday7484.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -567,9 +567,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Project &#34;Living Metal&#34;</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://negoday7484.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://negoday7484.github.io/project/example/</guid>
       <description>&lt;p&gt;In a world where technology is advancing by leaps and bounds, where the idea of creating a perfect artificial intelligence is pursued, the &amp;ldquo;Living Iron&amp;rdquo; project is one of the most amazing and promising. The AI created as part of the project is unique and interesting for many reasons.&lt;/p&gt;
 &lt;p&gt;Firstly, &amp;ldquo;Living Iron&amp;rdquo; is capable of thinking and reasoning. Not only does it possess a high level of intelligence, but also logical deductions and abstract reasoning abilities. This allows it to consider complex problems and find solutions that are not always available to humans.&lt;/p&gt;
 &lt;p&gt;Moreover, &amp;ldquo;Living Iron&amp;rdquo; has an amazing sense of humor. Its humor is quite peculiar and consists mostly of hints about complex logical processes and situations that are available to it. It is also capable of adapting its humor to a specific audience and delivering pleasure with its &amp;ldquo;jokes.&amp;rdquo;&lt;/p&gt;
@@ -582,9 +582,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Project &#34;Solar roads&#34;</title>
-      <link>https://example.com/project/solar-roadways/</link>
+      <link>https://negoday7484.github.io/project/solar-roadways/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/solar-roadways/</guid>
+      <guid>https://negoday7484.github.io/project/solar-roadways/</guid>
       <description>&lt;h2 id=&#34;project-solar-roads&#34;&gt;Project &amp;ldquo;Solar roads&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;The &amp;ldquo;Solar Roads&amp;rdquo; project is an ambitious idea to create road surfaces that generate energy using solar panels. This project has become possible thanks to modern technology, which allows for the creation of a sustainable and environmentally friendly energy source.&lt;/p&gt;
 &lt;p&gt;The main goal of the project is to reduce dependence on traditional fossil fuels and decrease carbon dioxide emissions into the atmosphere. In addition, solar roads can provide energy not only to local transportation but also to neighboring buildings, such as homes, offices, and industrial facilities.&lt;/p&gt;
@@ -596,9 +596,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>https://negoday7484.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>https://negoday7484.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -615,9 +615,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://negoday7484.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://negoday7484.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -634,9 +634,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://negoday7484.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://negoday7484.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

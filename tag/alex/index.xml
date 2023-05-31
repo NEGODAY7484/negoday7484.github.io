@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ALEX | Патрик Бэйтмен</title>
-    <link>https://example.com/tag/alex/</link>
-      <atom:link href="https://example.com/tag/alex/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://negoday7484.github.io/tag/alex/</link>
+      <atom:link href="https://negoday7484.github.io/tag/alex/index.xml" rel="self" type="application/rss+xml" />
     <description>ALEX</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
+      <url>https://negoday7484.github.io/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
       <title>ALEX</title>
-      <link>https://example.com/tag/alex/</link>
+      <link>https://negoday7484.github.io/tag/alex/</link>
     </image>
     
     <item>
       <title>Fifth stage week.</title>
-      <link>https://example.com/post/this-week/</link>
+      <link>https://negoday7484.github.io/post/this-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/this-week/</guid>
+      <guid>https://negoday7484.github.io/post/this-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>Last last week</title>
-      <link>https://example.com/post/last-last-last-week/</link>
+      <link>https://negoday7484.github.io/post/last-last-last-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-last-last-week/</guid>
+      <guid>https://negoday7484.github.io/post/last-last-last-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
@@ -111,9 +111,9 @@
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/last-last-week/</link>
+      <link>https://negoday7484.github.io/post/last-last-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-last-week/</guid>
+      <guid>https://negoday7484.github.io/post/last-last-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
@@ -193,9 +193,9 @@
     
     <item>
       <title>Last week.</title>
-      <link>https://example.com/post/john-week/</link>
+      <link>https://negoday7484.github.io/post/john-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/john-week/</guid>
+      <guid>https://negoday7484.github.io/post/john-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;
@@ -272,9 +272,9 @@
     
     <item>
       <title>Week six Stage.</title>
-      <link>https://example.com/post/end-of-weeks/</link>
+      <link>https://negoday7484.github.io/post/end-of-weeks/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/end-of-weeks/</guid>
+      <guid>https://negoday7484.github.io/post/end-of-weeks/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;chronology-of-events&#34;&gt;Chronology of events&lt;/h2&gt;

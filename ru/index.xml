@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Патрик Бэйтмен</title>
-    <link>https://example.com/ru/</link>
-      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://negoday7484.github.io/ru/</link>
+      <atom:link href="https://negoday7484.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
     <description>Патрик Бэйтмен</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-RU</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
+      <url>https://negoday7484.github.io/media/icon_hu523754d048bead075a3214a7e81e2f42_147914_512x512_fill_lanczos_center_3.png</url>
       <title>Патрик Бэйтмен</title>
-      <link>https://example.com/ru/</link>
+      <link>https://negoday7484.github.io/ru/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/ru/talk/example-talk/</link>
+      <link>https://negoday7484.github.io/ru/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/talk/example-talk/</guid>
+      <guid>https://negoday7484.github.io/ru/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Нейросети</title>
-      <link>https://example.com/ru/post/ai/</link>
+      <link>https://negoday7484.github.io/ru/post/ai/</link>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/ai/</guid>
+      <guid>https://negoday7484.github.io/ru/post/ai/</guid>
       <description>&lt;p&gt;Привет, друзья! Сегодня я хотел бы поговорить о нейросетях. В последнее время они стали очень популярными в мире технологий и науки, и с каждым днем становятся все более и более распространенными. Но что такое нейросети и зачем они нужны?&lt;/p&gt;
 &lt;p&gt;Нейросети – это системы, которые используют искусственный интеллект для распознавания образов, анализа данных и принятия решений на основе большого объема информации. Они создаются по принципу работы человеческого мозга, состоят из большого количества «нейронов» и обучаются на большом количестве данных.&lt;/p&gt;
 &lt;p&gt;Нейросети используются в различных сферах, от медицины до финансов. Они могут помочь в создании точных моделей для прогнозирования изменений в экономике, предотвращения преступлений, разработки лекарств и многом другом.&lt;/p&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>Библиография</title>
-      <link>https://example.com/ru/post/bibliography/</link>
+      <link>https://negoday7484.github.io/ru/post/bibliography/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/bibliography/</guid>
+      <guid>https://negoday7484.github.io/ru/post/bibliography/</guid>
       <description>&lt;p&gt;Работа с библиографией является неотъемлемой частью научного и исследовательского процесса. Корректно оформленная библиография позволяет не только украсить качественную научную работу, но и доказать ее научную состоятельность и авторитетность.&lt;/p&gt;
 &lt;p&gt;Но как правильно работать с библиографическими источниками? В первую очередь, необходимо правильно их выбрать. Для этого нужно знать, насколько источник подходит для решения научной задачи, качество и достоверность информации, которую он содержит.&lt;/p&gt;
 &lt;p&gt;Одним из самых важных аспектов работы с библиографией является ее оформление. При оформлении библиографического списка, необходимо учитывать требования учебного заведения, научного журнала и т.д. Но общие принципы формирования библиографии запомнить несложно.&lt;/p&gt;
@@ -63,9 +63,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>https://example.com/ru/post/the-science/</link>
+      <link>https://negoday7484.github.io/ru/post/the-science/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/the-science/</guid>
+      <guid>https://negoday7484.github.io/ru/post/the-science/</guid>
       <description>&lt;p&gt;Языки научного программирования - это особый тип языков программирования, который ориентирован на решение задач в научных областях. Они обладают богатыми возможностями для работы с числами, матрицами, статистикой, графикой и т.д.&lt;/p&gt;
 &lt;p&gt;Одним из самых популярных языков научного программирования является Python. Он имеет широкий спектр библиотек, таких как NumPy, SciPy, Pandas, которые обеспечивают эффективную работу с числами, многомерными массивами и научными данными.&lt;/p&gt;
 &lt;p&gt;Еще одним интересным языком научного программирования является R. Он используется для анализа данных, статистики и визуализации. R обладает большим количеством библиотек для статистического анализа, таких как ggplot2, dplyr, tidyr и др.&lt;/p&gt;
@@ -77,9 +77,9 @@
     
     <item>
       <title>Управление версиями Git</title>
-      <link>https://example.com/ru/post/git/</link>
+      <link>https://negoday7484.github.io/ru/post/git/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/git/</guid>
+      <guid>https://negoday7484.github.io/ru/post/git/</guid>
       <description>&lt;p&gt;Git - это распределенная система управления версиями, которая используется для отслеживания изменений в коде и управления проектами. Она позволяет разработчикам работать над одним проектом, сохраняя все изменения и контролируя их.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Одной из основных функций Git является возможность создавать ветки, которые позволяют работать над различными версиями кода. Это позволяет разработчикам проводить эксперименты, исправлять ошибки и добавлять новые функции без риска повредить основную ветку.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Кроме того, Git предоставляет возможность слияния веток. Это означает, что разработчики могут объединять свои изменения в одну основную ветку, что позволяет сохранять все изменения и контролировать их.&lt;/p&gt;
@@ -118,9 +118,9 @@
     
     <item>
       <title>На позопрошлой неделе</title>
-      <link>https://example.com/ru/post/last-last-last-week/</link>
+      <link>https://negoday7484.github.io/ru/post/last-last-last-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-last-last-week/</guid>
+      <guid>https://negoday7484.github.io/ru/post/last-last-last-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
@@ -200,9 +200,9 @@
     
     <item>
       <title>На прошлой неделе</title>
-      <link>https://example.com/ru/post/john-week/</link>
+      <link>https://negoday7484.github.io/ru/post/john-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/john-week/</guid>
+      <guid>https://negoday7484.github.io/ru/post/john-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
@@ -279,9 +279,9 @@
     
     <item>
       <title>На прошлой неделе</title>
-      <link>https://example.com/ru/post/last-last-week/</link>
+      <link>https://negoday7484.github.io/ru/post/last-last-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-last-week/</guid>
+      <guid>https://negoday7484.github.io/ru/post/last-last-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
@@ -361,9 +361,9 @@
     
     <item>
       <title>Неделя пятого этапа</title>
-      <link>https://example.com/ru/post/this-week/</link>
+      <link>https://negoday7484.github.io/ru/post/this-week/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/this-week/</guid>
+      <guid>https://negoday7484.github.io/ru/post/this-week/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
@@ -376,9 +376,9 @@
     
     <item>
       <title>Неделя шестого этапа</title>
-      <link>https://example.com/ru/post/end-of-weeks/</link>
+      <link>https://negoday7484.github.io/ru/post/end-of-weeks/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/end-of-weeks/</guid>
+      <guid>https://negoday7484.github.io/ru/post/end-of-weeks/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;SALAM ALEYKUM&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;хронология-событий&#34;&gt;Хронология событий&lt;/h2&gt;
@@ -392,9 +392,9 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/ru/publication/preprint/</link>
+      <link>https://negoday7484.github.io/ru/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/preprint/</guid>
+      <guid>https://negoday7484.github.io/ru/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -406,9 +406,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/ru/slides/example/</link>
+      <link>https://negoday7484.github.io/ru/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/slides/example/</guid>
+      <guid>https://negoday7484.github.io/ru/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -531,9 +531,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>https://example.com/ru/post/markdown/</link>
+      <link>https://negoday7484.github.io/ru/post/markdown/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markdown/</guid>
+      <guid>https://negoday7484.github.io/ru/post/markdown/</guid>
       <description>&lt;p&gt;
 
 
@@ -568,9 +568,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Проект &#34;Живое Железо&#34;</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://negoday7484.github.io/ru/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://negoday7484.github.io/ru/project/example/</guid>
       <description>&lt;p&gt;В мире, где технологии прогрессируют семимильными шагами, где преследуется идея создания совершенного искусственного интеллекта, проект &amp;ldquo;Живое железо&amp;rdquo; - один из самых удивительных и перспективных. ИИ, созданный в рамках проекта, уникален и интересен по многим причинам.&lt;/p&gt;
 &lt;p&gt;Во-первых, &amp;ldquo;Живое железо&amp;rdquo; способно думать и рассуждать. Оно обладает не только высоким уровнем интеллекта, но и способностями к логическим выводам и абстрактным размышлениям. Это позволяет ему рассматривать сложные задачи и находить решения, которые не всегда доступны человеку.&lt;/p&gt;
 &lt;p&gt;Кроме того, &amp;ldquo;Живое железо&amp;rdquo; обладает удивительной способностью шутить. Его юмор весьма своеобразен и заключается, в основном, в намеках на сложные логические процессы и ситуации, которые ему доступны. Он также способен адаптировать свой юмор к конкретной компании и доставлять удовольствие своим &amp;ldquo;шуткам&amp;rdquo;.&lt;/p&gt;
@@ -583,9 +583,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Проект &#34;Солнечные дороги&#34;</title>
-      <link>https://example.com/ru/project/solar-roadways/</link>
+      <link>https://negoday7484.github.io/ru/project/solar-roadways/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/solar-roadways/</guid>
+      <guid>https://negoday7484.github.io/ru/project/solar-roadways/</guid>
       <description>&lt;p&gt;Проект &amp;ldquo;Солнечные дороги&amp;rdquo; – это амбициозная идея создания дорожного покрытия, которое будет генерировать энергию с помощью солнечных батарей. Этот проект стал возможен благодаря современным технологиям, которые позволяют создавать устойчивый и экологически чистый источник энергии.&lt;/p&gt;
 &lt;p&gt;Основной целью проекта является уменьшение зависимости от традиционных ископаемых топлив и снижение выбросов углекислого газа в атмосферу. Кроме того, солнечные дороги смогут обеспечивать энергией не только локальное сообщение, но и смежные объекты, такие как дома, здания и промышленные предприятия.&lt;/p&gt;
 &lt;p&gt;Однако проект &amp;ldquo;Солнечные дороги&amp;rdquo; не ограничивается только использованием солнечных батарей. В дорожное покрытие также могут быть встроены сенсоры, которые будут собирать информацию о состоянии дороги, уровне трафика и прогнозе погоды. Это позволит эффективно управлять дорожным движением, улучшить безопасность на дороге и сократить время в пути.&lt;/p&gt;
@@ -596,9 +596,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/ru/publication/journal-article/</link>
+      <link>https://negoday7484.github.io/ru/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/journal-article/</guid>
+      <guid>https://negoday7484.github.io/ru/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -615,9 +615,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/ru/publication/conference-paper/</link>
+      <link>https://negoday7484.github.io/ru/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/conference-paper/</guid>
+      <guid>https://negoday7484.github.io/ru/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -634,9 +634,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/ru/admin/config.yml</link>
+      <link>https://negoday7484.github.io/ru/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/admin/config.yml</guid>
+      <guid>https://negoday7484.github.io/ru/admin/config.yml</guid>
       <description></description>
     </item>
     
